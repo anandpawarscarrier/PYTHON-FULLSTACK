@@ -1,0 +1,24 @@
+This will include all PPT and codes. All notes are created by Geeky Shows
+
+*********Term & Condition********** 
+1. No Refund
+<<<<<<< HEAD
+2. If you do not receive the material after making payment successfully mail us at contact@geekyshows.com
+=======
+2. If you do not receive the material after making payment successfully open case we will send you material again.
+>>>>>>> 3c7ce05798c1865d94bef451781edca0587b61e4
+3. You can't resell notes. If found, legal action will taken.
+
+
+******** Video Playlist ********
+<<<<<<< HEAD
+https://www.youtube.com/playlist?list=PLbGui_ZYuhijd1hUF2VWiKt8FHNBa7kGb
+=======
+https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L
+>>>>>>> 3c7ce05798c1865d94bef451781edca0587b61e4
+
+
+********Contact********
+www.geekyshows.com
+contact@geekyshows.com
+
